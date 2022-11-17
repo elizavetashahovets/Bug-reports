@@ -1,0 +1,8 @@
+Bug_id: 1
+Title: Текст внутри кнопки «Submit» смещён вправо на главной странице сайта http://itcareer.pythonanywhere.com/ 
+Severity:	Trivial
+Priority:	Low
+Environment:	MacOS Catalina 10.15.7. Safari v. 13.1.3 (15609.4.1)
+STR: 	Открыть сайт http://itcareer.pythonanywhere.com/
+AR: 	Текст внутри кнопки «Submit» смещён вправо
+ER:	Текст внутри кнопки «Submit» находится по центре
